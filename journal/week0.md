@@ -13,7 +13,7 @@ I had an extremely hard time setting up the CLI, even while following the videos
 
 ## AWS Budget
 ![Budget](assets/Budget.png)
-![Budget Alert](assets/Budget Alert.png)
+![Budget Alert](assets/BudgetAlert.png)
 
 
 ##Homework Challenges
