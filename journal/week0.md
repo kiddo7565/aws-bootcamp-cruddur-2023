@@ -8,7 +8,7 @@
 
 [Cruddur Conceptual Diagram] (https://lucid.app/lucidchart/61af66e1-6806-449c-b080-5f8334ab32c1/edit?viewport_loc=-7%2C57%2C1571%2C747%2C0_0&invitationId=inv_307beb54-5eee-4690-9ada-a2eb38f76ae5)
 
-![Image of Conceptual Diagram](assest/CCD.png)
+![Image of Conceptual Diagram](assets/CCD.png)
 
 ## CLI
 
